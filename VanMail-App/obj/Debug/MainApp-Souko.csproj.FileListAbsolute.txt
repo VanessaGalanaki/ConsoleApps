@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\MainApp-Vanessa\MainApp-Souko\bin\Debug\MainApp-Souko.exe.config
+C:\Users\user\Desktop\MainApp-Vanessa\MainApp-Souko\bin\Debug\MainApp-Souko.exe
+C:\Users\user\Desktop\MainApp-Vanessa\MainApp-Souko\bin\Debug\MainApp-Souko.pdb
+C:\Users\user\Desktop\MainApp-Vanessa\MainApp-Souko\obj\Debug\MainApp-Souko.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MainApp-Vanessa\MainApp-Souko\obj\Debug\MainApp-Souko.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MainApp-Vanessa\MainApp-Souko\obj\Debug\MainApp-Souko.exe
+C:\Users\user\Desktop\MainApp-Vanessa\MainApp-Souko\obj\Debug\MainApp-Souko.pdb
