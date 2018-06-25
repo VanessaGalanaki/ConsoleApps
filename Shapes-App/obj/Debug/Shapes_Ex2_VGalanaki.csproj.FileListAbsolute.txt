@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CSharp\Shapes_Ex2_VGalanaki\Shapes_Ex2_VGalanaki\bin\Debug\Shapes_Ex2_VGalanaki.exe.config
+C:\Users\user\Desktop\CSharp\Shapes_Ex2_VGalanaki\Shapes_Ex2_VGalanaki\bin\Debug\Shapes_Ex2_VGalanaki.exe
+C:\Users\user\Desktop\CSharp\Shapes_Ex2_VGalanaki\Shapes_Ex2_VGalanaki\bin\Debug\Shapes_Ex2_VGalanaki.pdb
+C:\Users\user\Desktop\CSharp\Shapes_Ex2_VGalanaki\Shapes_Ex2_VGalanaki\obj\Debug\Shapes_Ex2_VGalanaki.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CSharp\Shapes_Ex2_VGalanaki\Shapes_Ex2_VGalanaki\obj\Debug\Shapes_Ex2_VGalanaki.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharp\Shapes_Ex2_VGalanaki\Shapes_Ex2_VGalanaki\obj\Debug\Shapes_Ex2_VGalanaki.exe
+C:\Users\user\Desktop\CSharp\Shapes_Ex2_VGalanaki\Shapes_Ex2_VGalanaki\obj\Debug\Shapes_Ex2_VGalanaki.pdb
