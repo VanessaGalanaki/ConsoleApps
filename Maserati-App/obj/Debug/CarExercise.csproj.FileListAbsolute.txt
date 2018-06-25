@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\CSharp\CarExerciseFriday\CarExercise\obj\Debug\CarExercise.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CSharp\CarExerciseFriday\CarExercise\obj\Debug\CarExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharp\CarExerciseFriday\CarExercise\bin\Debug\CarExercise.exe.config
+C:\Users\user\Desktop\CSharp\CarExerciseFriday\CarExercise\bin\Debug\CarExercise.exe
+C:\Users\user\Desktop\CSharp\CarExerciseFriday\CarExercise\bin\Debug\CarExercise.pdb
+C:\Users\user\Desktop\CSharp\CarExerciseFriday\CarExercise\obj\Debug\CarExercise.exe
+C:\Users\user\Desktop\CSharp\CarExerciseFriday\CarExercise\obj\Debug\CarExercise.pdb
