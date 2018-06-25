@@ -1,6 +1,6 @@
 # Console Projects, Beginners staff, Practising on CSharp
 
-This folder contains these applications I builted during Coding BootCamp by AFDEmp,these are:
+This folder contains the applications I builted during Coding BootCamp by AFDEmp,these are:
 
   * **Maserati App(for and while loops, if ... else, Classes, Enums)**
   * **Shapes App(Inheritance,Iterfaces,Formats, try ... catch)**
